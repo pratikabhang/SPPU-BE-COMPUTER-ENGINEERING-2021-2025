@@ -1,52 +1,48 @@
-# 🎓 SPPU Computer Engineering (2019 Pattern) — Academic Resources
+# 🎓 SPPU Computer Engineering — 2019 Pattern (2021–2025)
 
-> A comprehensive collection of academic materials, assignments, practicals, and reference resources for SPPU Computer Engineering students following the 2019 Pattern.
+> Academic assignments, practicals, syllabus documents, and study resources for SPPU Computer Engineering students, shared for reference and educational purposes only.
 
 ![University](https://img.shields.io/badge/University-SPPU-orange)
 ![Branch](https://img.shields.io/badge/Branch-Computer%20Engineering-blue)
 ![Syllabus](https://img.shields.io/badge/Syllabus-2019%20Pattern-green)
-![Academic Resources](https://img.shields.io/badge/Resources-Assignments%20%7C%20Practicals%20%7C%20Notes-purple)
+![Academic Resources](https://img.shields.io/badge/Purpose-Reference%20Only-purple)
 ![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey)
 
-## 📚 Overview
+## 📚 About This Repository
 
-Welcome to the **SPPU BE Computer Engineering 2021–2025** repository! This repository is a centralized collection of academic resources for Computer Engineering students following the **2019 Pattern syllabus of Savitribai Phule Pune University (SPPU)**.
+This repository contains academic files, assignments, practicals, mini-project resources, syllabus documents, and other study materials related to the **2019 Pattern syllabus of Savitribai Phule Pune University (SPPU) for Computer Engineering**.
 
-It brings together academic files, subject assignments, laboratory practicals, mini-project resources, syllabus documents, and other study materials to help students throughout their engineering journey.
+The collection covers Second Year (S.E.), Third Year (T.E.), and Final Year (B.E.) academic resources associated with the 2021–2025 period.
 
-Whether you are preparing for practical examinations, completing assignments, revising concepts, or referring to previous implementations, this repository serves as a convenient academic reference.
+All materials are provided **for reference and educational purposes only** to help students understand concepts, explore implementations, revise coursework, and prepare for practical examinations.
 
-## ✨ What's Included?
+## ✨ Repository Contents
 
-The repository is organized into the following major sections:
+- **Second Year (S.E.) Computer Engineering:** Available academic files and study resources.
+- **Third Year (T.E.) Computer Engineering:** Subject-related reference materials, assignments, and practicals.
+- **Final Year (B.E.) Computer Engineering:** Academic resources for final-year coursework.
+- **Lab and Mini Projects:** Practical implementations and project-related reference materials.
+- **SPPU 2019 Syllabus:** Curriculum and syllabus reference documents.
+- **Additional Academic Resources:** Other files available in the repository.
 
-- **Second Year (S.E.) Computer Engineering:** Academic resources and materials for the second year.
-- **Third Year (T.E.) Computer Engineering:** Subject-related assignments, practicals, and reference materials.
-- **Final Year (B.E.) Computer Engineering:** Academic resources for the final year of the undergraduate program.
-- **Lab and Mini Projects:** Practical implementations and project-related resources.
-- **SPPU 2019 Syllabus:** Syllabus documents and curriculum references.
-- **Additional Academic Files:** Other relevant materials available throughout the repository.
+The actual subjects and materials are available in their respective folders.
 
-The exact subjects and files are organized within their respective directories.
+## 🎯 Purpose
 
-## 🎯 Purpose of This Repository
+- Provide a centralized collection of academic reference materials.
+- Help students review assignments and practical implementations.
+- Support concept revision and practical examination preparation.
+- Make relevant syllabus documents and study resources easier to access.
+- Encourage independent learning and a better understanding of programming concepts.
 
-- Keep academic resources organized in one accessible location.
-- Help students refer to subject assignments and laboratory practicals.
-- Support preparation for university practical examinations.
-- Provide code and implementation references for learning and revision.
-- Make syllabus-related materials easier to locate.
-- Encourage collaboration and knowledge sharing among Computer Engineering students.
+## 👥 Intended Audience
 
-## 👥 Who Can Benefit?
-
-This repository is useful for:
+This repository is intended for:
 
 - SPPU Computer Engineering students following the 2019 Pattern.
-- Second-year, third-year, and final-year students.
-- Students preparing for practicals, assignments, and project work.
-- Learners looking for reference implementations and study resources.
-- Juniors seeking guidance from academic examples.
+- Second-year, third-year, and final-year engineering students.
+- Students reviewing practicals, assignments, and mini-project examples.
+- Learners seeking academic references for coursework and revision.
 
 ## 🗂️ Repository Structure
 
@@ -60,55 +56,59 @@ SPPU-BE-COMPUTER-ENGINEERING-2021-2025/
 └── README.md
 ```
 
-Each directory contains the resources associated with its academic category. Browse the relevant folder to find the available files.
+Each directory contains the resources associated with its academic category. Browse the relevant folder to locate the available materials.
 
-## 🚀 How to Use This Repository
+## 🚀 Getting Started
 
-1. Open the [GitHub repository](https://github.com/pratikabhang/SPPU-BE-COMPUTER-ENGINEERING-2021-2025).
-2. Select your academic year or the relevant resource category.
-3. Browse the available subject files, assignments, practicals, and documents.
-4. Download individual files or clone the repository for local access.
-5. Review the material and use it as a reference while completing your coursework.
+### Browse Online
+
+Visit the repository:
+
+[**Open SPPU-BE-COMPUTER-ENGINEERING-2021-2025 on GitHub**](https://github.com/pratikabhang/SPPU-BE-COMPUTER-ENGINEERING-2021-2025)
 
 ### Clone the Repository
+
+To access the materials locally, run:
 
 ```bash
 git clone https://github.com/pratikabhang/SPPU-BE-COMPUTER-ENGINEERING-2021-2025.git
 cd SPPU-BE-COMPUTER-ENGINEERING-2021-2025
 ```
 
-No single installation or build process is required for the entire repository. Individual programs may require their own compilers, interpreters, libraries, or development environments.
+No single installation or build process is required for the entire repository. Individual programs may require a suitable compiler, interpreter, or development environment.
 
-## 🧪 Academic Use and Best Practices
+## 📖 Guidelines for Use
 
-- Read and understand the implementation before using it as a reference.
-- Verify that the material matches your subject and current syllabus.
-- Run practical programs in the appropriate environment.
-- Test different inputs and understand the expected output.
-- Use the resources to strengthen your concepts rather than relying on copy-paste submissions.
-- Follow your college's academic integrity and assignment submission guidelines.
+- Use all materials **for reference and educational purposes only**.
+- Read and understand the logic before using any code as a reference.
+- Practice implementing solutions independently to strengthen your understanding.
+- Verify the relevance and correctness of materials against your syllabus and faculty instructions.
+- Follow your institution's academic integrity and assignment submission policies.
+- Respect the copyright and licensing terms of the included materials.
 
 ## 🤝 Contributions
 
-Contributions that improve the quality and usefulness of these academic resources are welcome.
+Contributions that improve the organization, clarity, and educational value of the repository are welcome.
 
 1. Fork the repository.
 2. Create a branch for your changes.
-3. Add or improve relevant academic materials.
-4. Verify the correctness of code and documentation.
-5. Submit a pull request describing your contribution.
+3. Add or improve relevant reference materials.
+4. Verify the correctness of any code or documentation you contribute.
+5. Submit a pull request describing your changes.
 
-Please ensure that contributed materials are organized, relevant, and appropriate for educational use.
+Please ensure that contributed materials are appropriately organized and suitable for educational reference.
 
 ## ⚠️ Disclaimer
 
-This is an independent student-maintained academic resource repository. It is not an official SPPU publication.
+This is an independent academic resource repository and is **not an official publication of Savitribai Phule Pune University (SPPU)**.
 
-The materials are provided for educational and reference purposes. Students should verify syllabus requirements and examination guidelines with official university and college sources.
+All materials are provided for reference and educational purposes only. Students should verify syllabus requirements, academic guidelines, and examination instructions using official university and college resources.
+
+The repository author does not claim ownership of third-party materials unless explicitly stated. Please respect applicable copyrights and licenses.
 
 ## 📄 License
 
-No repository-wide license has been confirmed. Unless a license is added, do not assume that all code and documents may be freely redistributed or reused.
+No repository-wide license has been specified. Unless a license is added, do not assume that the materials may be freely redistributed, modified, or reused.
 
 ## 👨‍💻 Author
 
@@ -119,6 +119,6 @@ No repository-wide license has been confirmed. Unless a license is added, do not
 
 ---
 
-⭐ If this repository helps you with your academic work, consider starring it and sharing it with fellow Computer Engineering students.
+⭐ If you find this repository useful as an academic reference, consider starring it and sharing it with fellow students.
 
-**Learn. Practice. Revise. Build.**
+**Learn independently. Practice consistently. Use resources responsibly.**
